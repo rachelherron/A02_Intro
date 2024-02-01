@@ -1,3 +1,5 @@
 Added a line to the top
 
 This is another file
+
+Added a line to bottom
